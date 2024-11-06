@@ -1,0 +1,2 @@
+# teoria_typescript
+TypeScript
